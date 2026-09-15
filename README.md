@@ -1,6 +1,6 @@
 # ImageEU: stimulus set and trials
 
-We measure what Dutch citizens *picture* when they think about the EU, using PictoPercept: respondents see two images side by side, answer one fixed question under time pressure, and pick one. Repeated across systematically varied images, the choices reveal which visual attributes drive selection. That distribution then gets compared against the EU's own social media output.
+We measure what Dutch citizens *picture* when they think about the EU, using PictoPercept: respondents see two images side by side, answer one fixed question under time pressure, and pick one. Repeated across systematically varied images, the choices reveal which attributes (frame + postitive/negative) drive selection. That distribution can then be compared against the EU's own social media output.
 
 **Design: `frame` (6 levels) × `valence` (2 levels) = 12 cells.**
 
