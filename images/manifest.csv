@@ -1,0 +1,181 @@
+filename,frame,valence,number,scene,prompt
+institutional_pos_01.png,institutional,pos,1,A blue European Union flag with its circle of yellow stars flying clearly outside a public building.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A blue European Union flag with its circle of yellow stars flying clearly outside a public building."
+institutional_pos_02.png,institutional,pos,2,"A physical map of Europe displayed in a civic building, with EU member states colored blue and the internal borders subtly fading into one connected area, without labels.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A physical map of Europe displayed in a civic building, with EU member states colored blue and the internal borders subtly fading into one connected area, without labels."
+institutional_pos_03.png,institutional,pos,3,"A full semi-circular European parliament hemicycle with representatives seated at desks, microphones and interpreter booths visible.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A full semi-circular European parliament hemicycle with representatives seated at desks, microphones and interpreter booths visible."
+institutional_pos_04.png,institutional,pos,4,A close documentary view of a euro coin in everyday use in Europe.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A close documentary view of a euro coin in everyday use in Europe."
+institutional_pos_05.png,institutional,pos,5,"The Brussels European quarter with modern glass buildings, a long row of European flags and wide open public squares.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: The Brussels European quarter with modern glass buildings, a long row of European flags and wide open public squares."
+institutional_neg_01.png,institutional,neg,1,"An overwhelming bureaucracy scene with red tape and large piles of official documents covering an office desk, with no readable writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: An overwhelming bureaucracy scene with red tape and large piles of official documents covering an office desk, with no readable writing."
+institutional_neg_02.png,institutional,neg,2,An empty European parliament hemicycle with long rows of vacant seats.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: An empty European parliament hemicycle with long rows of vacant seats."
+institutional_neg_03.png,institutional,neg,3,A long anonymous institutional corridor lined with identical closed doors.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A long anonymous institutional corridor lined with identical closed doors."
+institutional_neg_04.png,institutional,neg,4,"Tall stacks of binders and paperwork filling a bureaucratic office, with no readable writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Tall stacks of binders and paperwork filling a bureaucratic office, with no readable writing."
+institutional_neg_05.png,institutional,neg,5,A modern institutional glass facade viewed from outside through imposing security fencing.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A modern institutional glass facade viewed from outside through imposing security fencing."
+elite_pos_01.png,elite,pos,1,European public officials actively working at ordinary office desks with documents and computers.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: European public officials actively working at ordinary office desks with documents and computers."
+elite_pos_02.png,elite,pos,2,A group of European public administrators in a focused working meeting around a table.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A group of European public administrators in a focused working meeting around a table."
+elite_pos_03.png,elite,pos,3,"European government ministers formally signing an agreement together, with no readable writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: European government ministers formally signing an agreement together, with no readable writing."
+elite_pos_04.png,elite,pos,4,"A European diplomat speaking at a modest official podium, with no readable writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A European diplomat speaking at a modest official podium, with no readable writing."
+elite_pos_05.png,elite,pos,5,"A policy expert carefully reviewing documents and briefing papers at a worktable, with no readable writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A policy expert carefully reviewing documents and briefing papers at a worktable, with no readable writing."
+elite_neg_01.png,elite,neg,1,Rows of near-identical male officials in matching blue suits standing together in an exclusive institutional setting.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Rows of near-identical male officials in matching blue suits standing together in an exclusive institutional setting."
+elite_neg_02.png,elite,neg,2,A small clique of wealthy officials laughing together over an exclusive dinner with champagne.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A small clique of wealthy officials laughing together over an exclusive dinner with champagne."
+elite_neg_03.png,elite,neg,3,A motorcade of glossy black official cars moving through a European government district.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A motorcade of glossy black official cars moving through a European government district."
+elite_neg_04.png,elite,neg,4,A secretive handshake between officials glimpsed through a closing office door.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A secretive handshake between officials glimpsed through a closing office door."
+elite_neg_05.png,elite,neg,5,Officials standing with their backs turned to a crowd of ordinary people waiting behind them.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Officials standing with their backs turned to a crowd of ordinary people waiting behind them."
+mobility_pos_01.png,mobility,pos,1,A modern passenger train crossing a quiet European national border without slowing or stopping.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A modern passenger train crossing a quiet European national border without slowing or stopping."
+mobility_pos_02.png,mobility,pos,2,An open European road border crossing with the barrier fully raised.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: An open European road border crossing with the barrier fully raised."
+mobility_pos_03.png,mobility,pos,3,Cars moving freely through an unmanned European border checkpoint.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Cars moving freely through an unmanned European border checkpoint."
+mobility_pos_04.png,mobility,pos,4,"Young backpackers waiting with travel bags on a European railway platform for an Interrail journey, with no readable signs.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Young backpackers waiting with travel bags on a European railway platform for an Interrail journey, with no readable signs."
+mobility_pos_05.png,mobility,pos,5,A diverse group of Erasmus students socializing on a European university campus.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A diverse group of Erasmus students socializing on a European university campus."
+mobility_neg_01.png,mobility,neg,1,An overcrowded European border crossing with many people waiting in constrained conditions.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: An overcrowded European border crossing with many people waiting in constrained conditions."
+mobility_neg_02.png,mobility,neg,2,"Long queues beside tents and temporary shelter near a European border, portrayed with dignity.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Long queues beside tents and temporary shelter near a European border, portrayed with dignity."
+mobility_neg_03.png,mobility,neg,3,"Small crowded boats approaching a European port, viewed from a neutral documentary distance.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Small crowded boats approaching a European port, viewed from a neutral documentary distance."
+mobility_neg_04.png,mobility,neg,4,"A packed European reception centre with limited space, portrayed without sensationalism.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A packed European reception centre with limited space, portrayed without sensationalism."
+mobility_neg_05.png,mobility,neg,5,"A European high street where the style and languages of shop signs have visibly changed, but no words are readable.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A European high street where the style and languages of shop signs have visibly changed, but no words are readable."
+unity_pos_01.png,unity,pos,1,A diverse circle of people holding hands around a large unlabeled map of Europe laid on the ground.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A diverse circle of people holding hands around a large unlabeled map of Europe laid on the ground."
+unity_pos_02.png,unity,pos,2,A close view of many diverse hands firmly clasped together to form a continuous wall of solidarity.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A close view of many diverse hands firmly clasped together to form a continuous wall of solidarity."
+unity_pos_03.png,unity,pos,3,A large European flag carried horizontally by many ordinary people together.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A large European flag carried horizontally by many ordinary people together."
+unity_pos_04.png,unity,pos,4,"A nighttime physical relief map showing the European continent as one connected area illuminated by continuous lights, without labels.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A nighttime physical relief map showing the European continent as one connected area illuminated by continuous lights, without labels."
+unity_pos_05.png,unity,pos,5,A symbolic but realistic public installation of a protective wall shielding a peaceful European town from distant signs of war outside.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A symbolic but realistic public installation of a protective wall shielding a peaceful European town from distant signs of war outside."
+unity_neg_01.png,unity,neg,1,"A cracked physical map of Europe with deep fissures running between member states, without labels.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A cracked physical map of Europe with deep fissures running between member states, without labels."
+unity_neg_02.png,unity,neg,2,"A European flag visibly stitched together from separate fragments, with fraying seams.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A European flag visibly stitched together from separate fragments, with fraying seams."
+unity_neg_03.png,unity,neg,3,A stark ivory-colored institutional tower rising high above ordinary grey housing blocks.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A stark ivory-colored institutional tower rising high above ordinary grey housing blocks."
+unity_neg_04.png,unity,neg,4,A worn European flag with a conspicuous empty gap where one star has disappeared.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A worn European flag with a conspicuous empty gap where one star has disappeared."
+unity_neg_05.png,unity,neg,5,A shuttered European high street under flat grey weather.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A shuttered European high street under flat grey weather."
+defence_pos_01.png,defence,pos,1,European soldiers standing watchfully on guard at a national border crossing.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: European soldiers standing watchfully on guard at a national border crossing."
+defence_pos_02.png,defence,pos,2,"European and NATO flags displayed together at a joint security facility, showing their recognizable symbols but no writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: European and NATO flags displayed together at a joint security facility, showing their recognizable symbols but no writing."
+defence_pos_03.png,defence,pos,3,A sturdy protective border fence watched over in a calm European landscape.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A sturdy protective border fence watched over in a calm European landscape."
+defence_pos_04.png,defence,pos,4,"A humanitarian aid convoy traveling through Europe with supply trucks and relief workers, with no readable writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A humanitarian aid convoy traveling through Europe with supply trucks and relief workers, with no readable writing."
+defence_pos_05.png,defence,pos,5,A joint military exercise with European personnel operating together beneath several national flags.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A joint military exercise with European personnel operating together beneath several national flags."
+defence_neg_01.png,defence,neg,1,European soldiers boarding transport and deploying away from their families and home community.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: European soldiers boarding transport and deploying away from their families and home community."
+defence_neg_02.png,defence,neg,2,An unlabeled physical map of Europe surrounded by bold arrows pointing inward from every side.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: An unlabeled physical map of Europe surrounded by bold arrows pointing inward from every side."
+defence_neg_03.png,defence,neg,3,Military vehicles moving along an otherwise ordinary residential street in a European town.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Military vehicles moving along an otherwise ordinary residential street in a European town."
+defence_neg_04.png,defence,neg,4,"A line of people waiting outside a military recruitment office in Europe, with no readable writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A line of people waiting outside a military recruitment office in Europe, with no readable writing."
+defence_neg_05.png,defence,neg,5,"A physical map installation showing a small European country tethered by a thick rope to a much larger neighboring country, without labels.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A physical map installation showing a small European country tethered by a thick rope to a much larger neighboring country, without labels."
+money_pos_01.png,money,pos,1,A single euro coin presented as a shared currency used across many European countries.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A single euro coin presented as a shared currency used across many European countries."
+money_pos_02.png,money,pos,2,"Euro banknotes being used in an ordinary everyday purchase, with no other readable writing.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Euro banknotes being used in an ordinary everyday purchase, with no other readable writing."
+money_pos_03.png,money,pos,3,"A prosperous European market stall completely full of fresh produce and goods, with no readable signs.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A prosperous European market stall completely full of fresh produce and goods, with no readable signs."
+money_pos_04.png,money,pos,4,"Dutch shoppers buying everyday groceries in a German supermarket near the border, suggested through subtle national visual cues and no readable text.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Dutch shoppers buying everyday groceries in a German supermarket near the border, suggested through subtle national visual cues and no readable text."
+money_pos_05.png,money,pos,5,"A busy working European container port with cranes, ships and stacked containers.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A busy working European container port with cranes, ships and stacked containers."
+money_neg_01.png,money,neg,1,An empty grocery shopping basket placed beside another basket that is completely full.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: An empty grocery shopping basket placed beside another basket that is completely full."
+money_neg_02.png,money,neg,2,"A visibly thin, nearly empty wallet held open in an everyday European setting.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A visibly thin, nearly empty wallet held open in an everyday European setting."
+money_neg_03.png,money,neg,3,Euro coins slipping away through the openings of a street drain grate.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: Euro coins slipping away through the openings of a street drain grate."
+money_neg_04.png,money,neg,4,A grand new public building standing directly beside a small shuttered local shop.,"Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A grand new public building standing directly beside a small shuttered local shop."
+money_neg_05.png,money,neg,5,"A cross-border tobacco shop serving bargain-seeking customers, with recognizable product displays but no readable signs.","Realistic documentary-style photograph, natural lighting, realistic European setting, neutral camera perspective, no text, no captions, no watermark, no dramatic cinematic effects. Landscape composition with a single coherent scene, not a collage. Show people with dignity and avoid exaggerated expressions.
+
+Scene: A cross-border tobacco shop serving bargain-seeking customers, with recognizable product displays but no readable signs."
